@@ -1,3 +1,5 @@
 arroz
 feijão
 calabresa
+frango
+macarrao
